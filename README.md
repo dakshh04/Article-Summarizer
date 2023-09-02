@@ -8,7 +8,7 @@ The application uses the OpenAI article summarizer API from rapid-api.com to gen
 You can access this using this link: 
 https://articlesummarizer04.netlify.app/
   
-![logoforreadme]([https://github.com/RohanKolhatkar/Article-Summarizer-Application-using-OpenAI-s-GPT-model-and-React/assets/74040444/374bd7d0-9892-47c0-87a0-997663d6758e](https://github.com/dakshh04/Article-Summarizer/blob/main/Untitled%20design%20(5).png))
+![logoforreadme](https://github.com/dakshh04/Article-Summarizer/blob/main/Untitled%20design%20(5).png)
 
 ## Tech Stack.
 
