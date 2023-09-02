@@ -69,4 +69,4 @@ Official website: https://reactjs.org/
 Documentation: https://reactjs.org/docs/  
 ## Support
 
-For support, email rohankolhatkar930@gmail.com.
+For support, email dakshhsingh4902@gmail.com.
