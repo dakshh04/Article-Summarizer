@@ -6,7 +6,7 @@ The application uses the OpenAI article summarizer API from rapid-api.com to gen
 
 ## Demo
 You can access this using this link: 
-https://articlesummarizer04.netlify.app/
+https://articlesummarizer-openai.netlify.app/
   
 ![logoforreadme](https://github.com/dakshh04/Article-Summarizer/blob/main/Untitled%20design%20(5).png)
 
